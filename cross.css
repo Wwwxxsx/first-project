@@ -1,0 +1,134 @@
+.container{
+    width: 1100px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+.top h2{
+    color: azure; 
+    display: flex; 
+    margin: 18px;
+    gap: 25px;
+}
+.top p{
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.top img{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    margin: 14px;
+    margin-left: 100px;
+}
+/* ------------------------------air-------------------- */
+.air{
+    width: 1100px;
+    height: 500px;
+    background-color: black;
+    margin: 3px;
+}
+.text{
+    color: azure;
+}
+.text h3{
+    color: azure;
+    font-size: 25px;
+    width: 250px;
+    height: 200px;
+   margin-left: 70px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+
+}
+.text  p{
+    width: 250px;
+    height: 200px;
+   margin-left: 70px;
+   color: azure;
+   font-size: 25px;
+}
+
+.text button{
+    background-color: blue;
+    color: azure;
+    width: 100px;
+    height: 40px;
+    margin-left: 70px;
+}
+.foto{
+    position: relative;
+}
+.foto img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 480px;
+    margin-top: -410px;
+    position: absolute;
+}
+
+/* ----------------cros-------------*/
+.wrapper{
+    width: 1100px;
+    height: 300px;
+   
+    display: flex;
+    flex-wrap: wrap;
+}
+.dd1{
+    gap: 10px;
+    border: 2px solid black;
+    width: 270px;
+    height: 450px;
+}
+.dd1 img{
+    width: 270px;
+    height: 300px;
+}
+/* ------dd2------------ */
+.dd2{
+    gap: 10px;
+    border: 2px solid black;
+    width: 270px;
+    height: 450px;
+}
+.dd2 img{
+    width: 270px;
+    height: 300px;
+}
+/* --------------dd3-------------- */
+.dd3{
+    gap: 10px;
+    border: 2px solid black;
+    width: 275px;
+    height: 450px;
+}
+.dd3 img{
+    width: 275px;
+    height: 300px;
+}
+/* -------------------dd4------------------- */
+.dd4{
+    gap: 10px;
+    border: 2px solid black;
+   
+    width: 270px;
+    height: 450px;
+}
+.dd4 img{
+    width: 271px;
+    height: 300px;
+}
